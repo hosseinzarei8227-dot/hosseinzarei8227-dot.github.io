@@ -1,1 +1,14 @@
-
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.hosseinzarei8227_dot.twa",
+      "sha256_cert_fingerprints": [
+        "C0:35:FB:80:3D:1C:DD:06:E0:F0:07:51:71:20:E4:C7:68:45:83:21:8C:DD:47:88:30:1C:97:FC:47:8C:58:8C"
+      ]
+    }
+  }
+]
